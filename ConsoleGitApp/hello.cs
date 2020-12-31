@@ -13,5 +13,11 @@ namespace ConsoleGitApp
         {
             Console.WriteLine("Add called");
         }
+        
+        
+            public void sub()
+        {
+            Console.WriteLine("sub called");
+        }
     }
 }
